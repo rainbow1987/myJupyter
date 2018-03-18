@@ -1,1 +1,1 @@
-# myJupyter
+IT培训课程：Python程序设计语言入门演示材料
