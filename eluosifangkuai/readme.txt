@@ -1,0 +1,1 @@
+下载完之后同样进入到下载目录打开命令窗口，执行pip install pygame-1.9.3-cp36-cp36m-win32.whl 或者pip install pygame-1.9.3-cp36-cp36m-win_amd64.whl进行安装，执行完系统会提示已经安装成功
